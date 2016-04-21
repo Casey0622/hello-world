@@ -7,4 +7,5 @@ int main ()
   cout <<a+b<<endl;
   system("pause");
   return 0;
+  
 }
